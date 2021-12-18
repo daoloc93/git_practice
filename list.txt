@@ -8,7 +8,10 @@ MEAT
 Sausages
 
 DAIRY
-
+Dog food
+Cat food
+Fish food
+Hamster food
 
 HOUSEHOLDS
 
