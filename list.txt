@@ -13,10 +13,11 @@ Pork
 Rabbit
 
 DAIRY
-Dog food
-Cat food
-Fish food
-Hamster food
+Milk
+Eggs
+Yoghurt
+Butter
+Cheese
 
 HOUSEHOLDS
 
